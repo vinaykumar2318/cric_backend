@@ -4,4 +4,7 @@ numpy<2
 opencv-contrib-python==4.9.0.80
 PyWavelets==1.6.0
 scikit-learn==1.5.1
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+
 
